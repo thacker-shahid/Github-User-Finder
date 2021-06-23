@@ -1,7 +1,6 @@
 {
   "short_name": "Github Finder",
   "name": "Github User Finder",
-  "start_url": "index.html",
   "icon":
     {
       "src" : "icon-192x192.png",
@@ -9,6 +8,7 @@
       "sizes": "192x192"
     },
  "background_color": "#FFEF5E",
+ "start_url": "index.html",
   "display": "standalone",
   "scope": "./",
   "theme_color": "#FFEF5E"
